@@ -1,0 +1,1 @@
+web: gunicorn thyroid_web_app.py:app
